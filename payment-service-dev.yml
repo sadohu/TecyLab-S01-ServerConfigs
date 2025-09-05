@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: payment-service
+
+payment:
+  provider: visa
+  cards:
+    - name: visa
+      limit: 25999
+    - name: amex
+      limit: 16999
