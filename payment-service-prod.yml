@@ -6,6 +6,6 @@ payment:
   provider: visa
   cards:
     - name: visa
-      limit: 2500
+      limit: 2599
     - name: amex
       limit: 1600

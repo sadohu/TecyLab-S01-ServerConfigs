@@ -3,7 +3,7 @@ spring:
     name: payment-service
 
 payment:
-  provider: visa
+  provider: amex
   cards:
     - name: visa
       limit: 25999
